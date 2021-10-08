@@ -1,0 +1,3 @@
+[submodule ".\\Dentz\\vendor/spdlog"]
+	path = .\\Dentz\\vendor/spdlog
+	url = https://github.com/gabime/spdlog
